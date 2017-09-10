@@ -19,9 +19,9 @@ To run this script:
      `$ chmod a+x EasyMP3.sh`
     
 3. Go to YouTube and get the URL for a video:  
-4. Run EasyMP3.sh :  
+4. Execute the EasyMP3 script :  
     
-     `$. /EasyMP3.sh`
+     `$ ./EasyMP3.sh`
     
 5. Enter the copied URL into the command line at the prompt and hit the Enter key.
 6. Wait for the download to process.    
