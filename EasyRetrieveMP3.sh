@@ -9,4 +9,4 @@ read -p "Please enter the YouTube URL you want to convert to an MP3 and hit Ente
 
 
 echo `youtube-dl --extract-audio --audio-format mp3 $url`
-while true; do echo -ne "`date +%H:%M:%S:%N`\r"; done
+
