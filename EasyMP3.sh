@@ -3,7 +3,7 @@
 # In Debian # apt-get install youtube-dl
 # 
 
-echo "Enter the YouTube URL you want turned into an MP3 and hit Enter."
+#echo "Enter the YouTube URL you want turned into an MP3 and hit Enter."
 
 read -p "Please enter the YouTube URL you want to convert to an MP3 and hit Enter : " url
 
