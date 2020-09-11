@@ -3,7 +3,6 @@
 
 Convert YouTube URLs to MP3 or AAC tracks.  
 Works for single videos or entire playlists.  
-AAC>MP3
 
 Dependencies:  
     python 2.6, 2.7, or 3.2+  
